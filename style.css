@@ -1,5 +1,5 @@
-body {
-    background-color: darkolivegreen;
+.p{ 
+   background-color: darkolivegreen;
     font-family: sans-serif;
     margin-top: 0%;
     width: auto;
@@ -9,9 +9,4 @@ font-weight: 200;
 font-style: italic;
 text-align: center;
 text-decoration: none;
-
-}
-
-.new{ 
-    background-color: darkolivegreen;
 }
